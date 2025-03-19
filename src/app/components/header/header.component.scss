@@ -1,0 +1,24 @@
+.container {
+    height: 100vh;
+  }
+  
+  mat-sidenav {
+    width: 250px;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  mat-toolbar {
+    display: flex;
+    justify-content: center;
+    button{
+        margin-left: 3%;
+        position: absolute;
+        left: 0;
+    }
+    
+  }
+
+  
+  
